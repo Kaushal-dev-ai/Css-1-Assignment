@@ -1,0 +1,19 @@
+.first {
+    color: red;
+}
+
+.sec {
+     color: blueviolet;
+     font-style: italic;
+}
+
+ul {
+    color: brown;
+    letter-spacing: 5px;
+}
+
+
+a {
+    text-decoration: none;
+    
+}
